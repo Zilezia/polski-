@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "by Zilezia",
+    "pack_format": 32
+  },
+  "language": {
+    "pl_zl": {
+      "name": "Polski+",
+      "region": "Polska",
+      "bidirectional":false                    
+    }
+  }
+}
